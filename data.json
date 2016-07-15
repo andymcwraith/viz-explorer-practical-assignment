@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "firstName": "Joe",
+      "surname": "Fraiser",
+      "sex": "male",
+      "tier": "gold"
+      "email": "jofraizer@email.com"
+   },
+   {
+      "id": 2,
+      "firstName": "Julliete",
+      "surname": "Romeo",
+      "sex": "female",
+      "tier": "gold"
+      "email": "shakespear@rmail.com"
+   },
+   {
+      "id": 3,
+      "firstName": "Robin",
+      "surname": "Hood",
+      "sex": "male",
+      "tier": "silver"
+      "email": "rags2riches@sherwood.co.uk"
+   },
+   {
+      "id": 4,
+      "firstName": "Mikasa",
+      "surname": "Ackerman",
+      "sex": "female",
+      "tier": "bronze"
+      "email": "giantSlayer29@trost.com"
+   },
+]

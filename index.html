@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DataGrid Assignment</title>
+</head>
+<body ng-app="dataGridAssignment">
+
+<div ng-controller = "playerController" >
+   
+   <table>
+    <tr>
+        <th>#</th>
+        <th>First Name</th>
+        <th>Surname</th>
+        <th>Sex</th>
+        <th>Tier</th>
+        <th>Email</th>
+    <tr>
+
+    <tr ng-repeat="player in players">
+        <td>{{ player.id }}</td>
+        <td>{{ player.FirstName }}</td>
+        <td>{{ player.Surname }}</td>
+        <td>{{ player.Sex }}</td>
+        <td>{{ player.Tier }}</td>
+        <td>{{ player.Email }}</td>
+    </tr>
+ </table>
+   
+</div>
+
+<script src="lib/angular.min.js"></script>
+
+<script src="js/main.js"></script>
+
+</body>
+</html>
