@@ -4,7 +4,7 @@
       "firstName": "Joe",
       "surname": "Fraiser",
       "sex": "male",
-      "tier": "gold"
+      "tier": "gold",
       "email": "jofraizer@email.com"
    },
    {
@@ -12,7 +12,7 @@
       "firstName": "Julliete",
       "surname": "Romeo",
       "sex": "female",
-      "tier": "gold"
+      "tier": "gold",
       "email": "shakespear@rmail.com"
    },
    {
@@ -20,7 +20,7 @@
       "firstName": "Robin",
       "surname": "Hood",
       "sex": "male",
-      "tier": "silver"
+      "tier": "silver",
       "email": "rags2riches@sherwood.co.uk"
    },
    {
@@ -28,7 +28,7 @@
       "firstName": "Mikasa",
       "surname": "Ackerman",
       "sex": "female",
-      "tier": "bronze"
+      "tier": "bronze",
       "email": "giantSlayer29@trost.com"
    },
 ]
